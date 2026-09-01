@@ -1,0 +1,137 @@
+[
+  {
+    "id": "mosje_micro_finance",
+    "code": "NSFDC-MFS-01",
+    "name": "Micro Credit Finance Scheme (Mahila Samriddhi & Micro Finance)",
+    "short_name": "Micro Finance Scheme",
+    "corporation": "National Scheduled Castes Finance and Development Corporation (NSFDC)",
+    "category": "Micro Finance",
+    "description": "Financial assistance to marginalized target groups for setting up small, income-generating micro-units such as dairy, petty shops, small-scale farming, and artisan trades.",
+    "min_project_cost": 10000,
+    "max_project_cost": 200000,
+    "max_loan_percentage": 95.0,
+    "interest_rate_pct": 4.0,
+    "female_rebate_pct": 0.5,
+    "max_tenure_months": 36,
+    "min_tenure_months": 12,
+    "moratorium_months_min": 3,
+    "moratorium_months_max": 6,
+    "income_limit_annual": 300000,
+    "sc_required": true,
+    "eligible_project_types": [
+      "Dairy",
+      "Agriculture",
+      "Retail / Shop",
+      "Service",
+      "Other"
+    ],
+    "eligible_education_levels": [
+      "Student",
+      "Graduate",
+      "Working",
+      "Other"
+    ],
+    "key_benefits": [
+      "Up to 95% of project cost funded by NSFDC/Channel Partner",
+      "Concessional interest rate of only 4.0% per annum (3.5% for women entrepreneurs)",
+      "Flexible moratorium of 3 to 6 months before principal repayment begins",
+      "Minimal collateral requirements via State Channelizing Agencies (SCAs)"
+    ],
+    "required_documents": [
+      "Caste / Community Certificate (SC / Target Category)",
+      "Family Income Certificate / BPL Ration Card",
+      "Identity Proof (Aadhaar / Voter ID)",
+      "Bank Account Passbook / Statement",
+      "Simplified Project / Micro-Enterprise Proposal"
+    ]
+  },
+  {
+    "id": "mosje_term_loan",
+    "code": "NSFDC-TLS-02",
+    "name": "Term Loan Scheme for Viable Commercial & Manufacturing Enterprises",
+    "short_name": "Term Loan Scheme",
+    "corporation": "National Scheduled Castes Finance and Development Corporation (NSFDC)",
+    "category": "Term Loan",
+    "description": "Medium to long term financial assistance for commercially viable projects including manufacturing units, service enterprises, commercial transport, and medium-scale agricultural/dairy processing.",
+    "min_project_cost": 150000,
+    "max_project_cost": 2000000,
+    "max_loan_percentage": 90.0,
+    "interest_rate_pct": 6.5,
+    "female_rebate_pct": 0.5,
+    "max_tenure_months": 120,
+    "min_tenure_months": 24,
+    "moratorium_months_min": 6,
+    "moratorium_months_max": 12,
+    "income_limit_annual": 300000,
+    "sc_required": true,
+    "eligible_project_types": [
+      "Manufacturing",
+      "Service",
+      "Dairy",
+      "Agriculture",
+      "Retail / Shop",
+      "Other"
+    ],
+    "eligible_education_levels": [
+      "Graduate",
+      "Working",
+      "Other",
+      "Student"
+    ],
+    "key_benefits": [
+      "Financing up to ₹20,00,000 for scalable business ventures",
+      "Up to 90% loan assistance with low promoter contribution (5-10%)",
+      "Extended repayment tenure up to 10 years (120 months)",
+      "Moratorium period of up to 12 months for enterprise setup and stabilization"
+    ],
+    "required_documents": [
+      "Caste / Community Certificate (SC / Target Category)",
+      "Family Income Certificate (issued by Revenue Officer / Tehsildar)",
+      "Identity & Address Proof (Aadhaar / PAN Card)",
+      "Bank Account Details with 6 Months Statement",
+      "Detailed Project Report (DPR) with Cost Quotations",
+      "Business Premises Lease Agreement or Ownership Proof"
+    ]
+  },
+  {
+    "id": "mosje_educational_loan",
+    "code": "NSFDC-ELS-03",
+    "name": "Educational Loan Scheme for Professional & Higher Technical Education",
+    "short_name": "Educational Loan Scheme",
+    "corporation": "National Scheduled Castes Finance and Development Corporation (NSFDC)",
+    "category": "Educational Loan",
+    "description": "Concessional education credit for SC students pursuing full-time professional or technical education degrees/diplomas in India or abroad at approved universities and institutions.",
+    "min_project_cost": 50000,
+    "max_project_cost": 2000000,
+    "max_loan_percentage": 90.0,
+    "interest_rate_pct": 4.0,
+    "female_rebate_pct": 0.5,
+    "max_tenure_months": 120,
+    "min_tenure_months": 36,
+    "moratorium_months_min": 12,
+    "moratorium_months_max": 48,
+    "income_limit_annual": 300000,
+    "sc_required": true,
+    "eligible_project_types": [
+      "Education"
+    ],
+    "eligible_education_levels": [
+      "Student",
+      "Graduate"
+    ],
+    "key_benefits": [
+      "Up to ₹10,00,000 for studies in India and up to ₹20,00,000 for studies abroad",
+      "Concessional interest rate of 4% p.a. (3.5% for female students)",
+      "Moratorium spanning entire course duration + 6 months to 1 year grace period after completion",
+      "Covers admission tuition fees, books, equipment, hostel, and travel expenses"
+    ],
+    "required_documents": [
+      "Caste / Community Certificate (SC / Target Category)",
+      "Income Certificate of Parents / Guardian (<= ₹3,00,000 p.a.)",
+      "Proof of Admission in Approved Institution (Admission Offer / Allotment Letter)",
+      "Academic Marksheets & Standardized Entrance Exam Scorecards",
+      "Schedule of Course Fees and Living Expenses Breakdown",
+      "Applicant & Co-Borrower KYC (Aadhaar, PAN, Bank Passbook)"
+    ]
+  }
+]

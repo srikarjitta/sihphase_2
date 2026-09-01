@@ -1,0 +1,32 @@
+[
+  {
+    "topic": "What is the Ministry of Social Justice and Empowerment (MoSJE)?",
+    "keywords": ["mosje", "ministry", "nsfdc", "corporation", "about"],
+    "content": "The Ministry of Social Justice and Empowerment (MoSJE), Government of India, is dedicated to the welfare, social justice, and economic empowerment of disadvantaged and marginalized sections, including Scheduled Castes (SC), Other Backward Classes (OBC), Safai Karamcharis, and Persons with Disabilities. Apex corporations like NSFDC, NBCFDC, and NSKFDC provide concessional credit, educational loans, and skill development support."
+  },
+  {
+    "topic": "What is a Moratorium Period and how does it work?",
+    "keywords": ["moratorium", "grace period", "holiday", "emi start", "deferral"],
+    "content": "A moratorium period (also called a repayment holiday or grace period) is a specific duration during which the borrower is not required to make principal loan repayments. For enterprise loans (like Term Loans or Micro Finance), it gives the entrepreneur 3 to 12 months to set up machinery, purchase cattle, or start sales before EMIs kick in. For Educational Loans, the moratorium covers the full duration of the course plus 6 to 12 months after course completion or finding employment."
+  },
+  {
+    "topic": "How are Channel Partners involved in sanctioning and disbursement?",
+    "keywords": ["channel partner", "sca", "bank", "rrb", "apply", "sanction", "disbursement"],
+    "content": "Apex corporations like NSFDC do not directly distribute cash to individuals. Instead, funds are routed through authorized Channel Partners: State Channelizing Agencies (SCAs) nominated by State Governments, Public Sector Banks (PSBs), Regional Rural Banks (RRBs), and qualified NBFC-MFIs. Beneficiaries submit physical/digital applications and documents to the Channel Partner, who verifies eligibility, appraises the project, sanctions the loan, and disburses the subsidized funds."
+  },
+  {
+    "topic": "What is the difference between Micro Finance and Term Loan Scheme?",
+    "keywords": ["micro finance vs term loan", "difference", "comparison", "small loan", "large loan"],
+    "content": "Micro Finance Schemes (e.g. Mahila Samriddhi / Micro Credit) are intended for small, quick-gestation income activities with project costs up to ₹1.4 to ₹2 Lakhs, offering 4% interest and repayment over 3 years. Term Loans are intended for larger, capital-intensive manufacturing, service, or commercial projects with costs up to ₹20 Lakhs (or more), offering 6.5% to 8% interest and longer repayment tenures up to 10 years."
+  },
+  {
+    "topic": "What is a Detailed Project Report (DPR) and why is it needed?",
+    "keywords": ["dpr", "project report", "proposal", "business plan", "quotations"],
+    "content": "A Detailed Project Report (DPR) is a summary document outlining the business concept, cost of equipment/machinery, raw material requirements, expected sales, profit margins, and repayment capacity. For loans above ₹1.5 to ₹2 Lakhs, Channel Partners require a DPR with proforma invoices/quotations to verify that the proposed enterprise is economically viable."
+  },
+  {
+    "topic": "What are the common documents required for MoSJE credit schemes?",
+    "keywords": ["documents", "checklist", "caste certificate", "income certificate", "aadhaar", "kyc"],
+    "content": "Essential documents include: 1) Valid Caste/Community Certificate proving SC/target category status; 2) Family Income Certificate issued by the competent revenue authority (income ceiling ₹3,00,000 p.a.); 3) KYC documents (Aadhaar Card, Voter ID, PAN Card); 4) Bank account details (Passbook copy with IFSC); 5) Project proposal or Detailed Project Report (with machinery quotations if applicable); 6) For education loans, proof of admission and fee schedule."
+  }
+]
